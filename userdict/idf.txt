@@ -1,0 +1,3 @@
+pandas 12
+numpy 12
+R语言 13
